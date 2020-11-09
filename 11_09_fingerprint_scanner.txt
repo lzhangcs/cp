@@ -1,0 +1,7 @@
+问题如下， 谢谢解答：
+
+When using KeyguardManager.createConfirmDeviceCredentialIntent() on Huawei device which have a fingerprint scanner (eg. P9), the screen only works with PIN/Password but does not allow unlock with the fingerprint scanner. On most other brands that works. Is this a known issue? I could not find any Stack Overflow entry. Is this problem known to Huawei?
+
+I know I could use the Fingerprint API, but this method works already from Android 5.0 onwards and is not restricted to fingerprint.
+
+https://developer.android.com/reference/android/app/KeyguardManager.html#createConfirmDeviceCredentialIntent(java.lang.CharSequence, java.lang.CharSequence)
