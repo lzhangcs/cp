@@ -1,0 +1,5 @@
+代CP提问：
+
+As we all know Tag kit is pretty much tied up with Analytics Kit. Since the tag generated is for Analytics kit to use. If we are using Google analytics, instead of converting Google analytics to HMS analytics so to work with HMS DTM, could we use HMS DTM to communicate with Google analytics directly? If yes, what are the processes we should follow? thanks
+
+谢谢
